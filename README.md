@@ -1,14 +1,36 @@
-## 💢LatifiMods💢
+**_💫 My first Bot! A simple Status Rotation with YT Links, watching and playing💫_**
 
-***Hi!*** 
+ 
+### **❗ I dont create a .env **File,** so take secure of your Token!❗**
 
-Im Iddox Latifi and ima doing simple Discord Bots with and without slash-commands. 
 
-Im love to coding with Python and VisualStudioCodes and sometimes i let over 12 Hours per Day in my Bots...
+## **❓How to Run the Bot!❓**
 
-***So please, if you like them and its help you, leave a Like!***
 
- I have a RageMP Modding Discord, for GTA V mods. **Join our Community if you like playing GTAV! :)**
 
-My Discord : **_apt_start_latifi_**
-My Server : **_discord.gg/latifimods_**
+🟢 Setup your Token and settings in **`scr/index.js`** file
+
+🟢Use **`npm i`** to install all requirements
+
+🟢Use **`node .`** to run the Bot
+
+
+
+
+
+`®THIS FILE IS CREATET BY apt_start_latifi`
+
+**_Description:_** 
+
+> Its a simple Status Rotator who changes every 5 Seconds the Status of your Bot. Its possible to put YT Links in and click on the Bots stream to get directly to the Videos! The bot doesnt have any '/' commands, if you want to add some you have to create a "register-commands.js" and fill up your Commands in "index.js".
+
+**For support to this Bot join my Discord or add my Discord below**
+
+
+
+### Our Discord Server gives you RageMP Stuff, but if you have questions to our Bots please ask there!
+
+Discord Informations:
+
+Server : [LatifiMods](https://discord.com/invite/latifimods)
+Discord : **apt_start_latifi**
